@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String TAG = "mainActivity";
 private AdView mAdView;
 private InterstitialAd mInterstitialAd;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
